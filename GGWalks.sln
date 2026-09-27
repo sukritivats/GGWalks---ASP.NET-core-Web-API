@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGWalks.API", "GGWalks.API\GGWalks.API.csproj", "{15471070-A20E-4718-99F9-0BEA7E612470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGWalks.UI", "GGWalks.UI\GGWalks.UI.csproj", "{D312AE9E-45BE-4F19-880F-0BA8C90590CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15471070-A20E-4718-99F9-0BEA7E612470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15471070-A20E-4718-99F9-0BEA7E612470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15471070-A20E-4718-99F9-0BEA7E612470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15471070-A20E-4718-99F9-0BEA7E612470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D312AE9E-45BE-4F19-880F-0BA8C90590CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D312AE9E-45BE-4F19-880F-0BA8C90590CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D312AE9E-45BE-4F19-880F-0BA8C90590CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D312AE9E-45BE-4F19-880F-0BA8C90590CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D79F10D-E135-4529-9FD9-AEC5F2128327}
+	EndGlobalSection
+EndGlobal

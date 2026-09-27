@@ -1,0 +1,6 @@
+@GGWalks.API_HostAddress = http://localhost:5005
+
+GET {{GGWalks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
